@@ -7,6 +7,7 @@ The main purpose of this project was to analyze different fundraising campaigns 
 ## Analysis and Challenges
 To start, I had to create four new columns to perform more of an indepth analysis. The first two columns were seprating the Category and Subcategory column into a Parent Category column and a Subcategory column. The next two columns were creatd by converting the Unix tmestamps that were provided on this sheet. This was one of my challenges on this sheet because the code to convert the timestamps were brand new to me. The following code was =(((J2/60)/60)/24)+DATE(1970,1,1) J2 was the first data input of the unix timestamps at launched dates of their fundraisers. 
 ### Analysis of Outcomes Based on Launch Date
+From the line chart and Pivot table that I created to perform my analysis I have determined that May and June are the two months are have the highest number of successful kickstarters. While December was the worst mo nth to perfom a fundraiser specifically for a category being a theatre. 
 
 ### Analysis of Outcomes Based on Goals
 
