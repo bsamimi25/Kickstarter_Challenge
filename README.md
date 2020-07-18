@@ -1,5 +1,6 @@
 # Kickstarter_Challenge
-Challenge #1 work 
+
+https://github.com/bsamimi25/Kickstarter_Challenge/blob/master/kickstarter_challenge.xlsx
 ## Overview of Project
 
 ### Purpose
